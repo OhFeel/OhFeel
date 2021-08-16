@@ -25,6 +25,14 @@
 <br />
 
 ---
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=OhFeel&show_icons=true&hide_border=true" />
+
+</details>
 [vscsite]: https://code.visualstudio.com
 [jssite]: https://wikipedia.org/wiki/JavaScript
 [nodejssite]: https://nodejs.org/en/
