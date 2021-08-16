@@ -25,14 +25,7 @@
 <br />
 
 ---
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=OhFeel&show_icons=true&hide_border=true" />
-
-</details>
+![Github stats](https://github-readme-stats.vercel.app/api?username=tovade&show_icons=true&theme=tokyonight&hide=["issues"])
 
 [vscsite]: https://code.visualstudio.com
 [jssite]: https://wikipedia.org/wiki/JavaScript
