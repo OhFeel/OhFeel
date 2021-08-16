@@ -26,6 +26,7 @@
 
 ---
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ohfeel&show_icons=true&theme=tokyonight&hide=["issues"])
+![Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=ohfeel&show_icons=true&theme=tokyonight&layout=compact)
 
 [vscsite]: https://code.visualstudio.com
 [jssite]: https://wikipedia.org/wiki/JavaScript
