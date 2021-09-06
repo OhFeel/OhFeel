@@ -2,7 +2,7 @@
 
 - 🔭 My best Project [susbot][sussbot]
 - 🌱 My verified discord bot [Uber][Uberr]
-- ⚡ Fun fact: I play a lot of minecraft (ign = whealty)
+- ⚡ Fun fact: I play a lot of minecraft (ign = OhFeel)
 
 ### Connect with me:
 
