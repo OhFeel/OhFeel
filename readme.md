@@ -1,5 +1,9 @@
 <div align="center">
+<a href="https://discord.com/users/755136326977847439/">
+  <img src="https://lanyard-profile-readme.vercel.app/api/755136326977847439" align="right" />
+</a>
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm OhFeel</h1>
+
 <h4 align="center">A discord bot dev using javascript and working on websites</h4>
 </div>
 
